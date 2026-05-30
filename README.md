@@ -1,7 +1,7 @@
 # Online-Examination-System
-# Reg No:
-# Name:
-# Date:
+# Reg No:212223240021
+# Name:DAKSHATA G
+# Date:27/05/26
 
 
 # AIM:
@@ -116,6 +116,33 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
+# DIAGRAMS:
+## CLASS DIAGRAM
+
+![EX6 ClassDiagram](https://github.com/user-attachments/assets/fb77a65e-10d4-4f92-8106-d221518363e6)
+
+
+## USECASE DIAGRAM
+![EX6 UseCaseDiagram](https://github.com/user-attachments/assets/42f31a49-1ce5-450b-b87c-b42da700988f)
+
+
+
+## ACTIVITY DIAGRAM
+![EX6 ActivityDiagram](https://github.com/user-attachments/assets/f851942d-6f28-41ed-be38-e742ba0c4961)
+
+
+## PACKAGE DIAGRAM
+
+![EX6 PackageDiagram](https://github.com/user-attachments/assets/c0c49db8-49b3-47db-a61f-216676af8b68)
+
+## SEQUENCE DIAGRAM
+
+![EX6 SequenceDiagram](https://github.com/user-attachments/assets/fa25bc56-b8c4-4025-b654-75c7db5b1a62)
+
+
+## COMMUNICATION DIAGRAM
+
+![EX6 CommunicationDiagram](https://github.com/user-attachments/assets/b68103ed-c136-40f6-a6b2-6036e6c81838)
 
 
 
